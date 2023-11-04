@@ -1,3 +1,6 @@
 [submodule "The-Complete-Developers-Guide"]
 	path = The-Complete-Developers-Guide
 	url = git@github.com:m-e-h-r-d-a-a-d/The-Complete-Developers-Guide.git
+[submodule "Master-Golang-with-1000-Exercises"]
+	path = Master-Golang-with-1000-Exercises
+	url = git@github.com:m-e-h-r-d-a-a-d/Master-Golang-with-1000-Exercises.git
