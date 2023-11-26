@@ -4,3 +4,6 @@
 [submodule "Master-Golang-with-1000-Exercises"]
 	path = Master-Golang-with-1000-Exercises
 	url = git@github.com:m-e-h-r-d-a-a-d/Master-Golang-with-1000-Exercises.git
+[submodule "Golang-Backend-Master-Class"]
+	path = Golang-Backend-Master-Class
+	url = git@github.com:m-e-h-r-d-a-a-d/Golang-Backend-Master-Class.git
