@@ -7,3 +7,6 @@
 [submodule "Golang-Backend-Master-Class"]
 	path = Golang-Backend-Master-Class
 	url = git@github.com:m-e-h-r-d-a-a-d/Golang-Backend-Master-Class.git
+[submodule "The-Last-Algorithms"]
+	path = The-Last-Algorithms
+	url = git@github.com:m-e-h-r-d-a-a-d/The-Last-Algorithms.git
