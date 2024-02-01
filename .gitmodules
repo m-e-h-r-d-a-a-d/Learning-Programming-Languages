@@ -10,3 +10,6 @@
 [submodule "The-Last-Algorithms"]
 	path = The-Last-Algorithms
 	url = git@github.com:m-e-h-r-d-a-a-d/The-Last-Algorithms.git
+[submodule "Web-Development-Golang-Programming"]
+	path = Web-Development-Golang-Programming
+	url = git@github.com:m-e-h-r-d-a-a-d/Web-Development-Golang-Programming.git
