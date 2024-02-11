@@ -13,3 +13,6 @@
 [submodule "Web-Development-Golang-Programming"]
 	path = Web-Development-Golang-Programming
 	url = git@github.com:m-e-h-r-d-a-a-d/Web-Development-Golang-Programming.git
+[submodule "Ultimate-Go-Web-Services"]
+	path = Ultimate-Go-Web-Services
+	url = git@github.com:m-e-h-r-d-a-a-d/Ultimate-Go-Web-Services.git
